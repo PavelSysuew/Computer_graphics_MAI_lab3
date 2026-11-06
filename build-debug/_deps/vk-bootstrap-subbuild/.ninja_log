@@ -1,0 +1,21 @@
+# ninja log v5
+0	16	1793952507560713708	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir	c67fcd123e1ecc36
+0	16	1793952507560713708	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir	c67fcd123e1ecc36
+16	4609	1793952512151566692	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download	c8ce5406a4050d4e
+16	4609	1793952512151566692	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download	c8ce5406a4050d4e
+4609	4641	0	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update	f1f3fd4e4c6c3cce
+4609	4641	0	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update	f1f3fd4e4c6c3cce
+4641	4674	1793952512216564611	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch	58fbd8035e43f4b0
+4641	4674	1793952512216564611	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch	58fbd8035e43f4b0
+4674	4698	1793952512241563811	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure	f1addc2ed72bab26
+4674	4698	1793952512241563811	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure	f1addc2ed72bab26
+4698	4718	1793952512262563138	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build	ba6d62ee7606d184
+4698	4718	1793952512262563138	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build	ba6d62ee7606d184
+4719	4738	1793952512281562530	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install	e97184b917590f58
+4719	4738	1793952512281562530	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install	e97184b917590f58
+4738	4756	1793952512299561953	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test	fac0f8b8d3e5eb4b
+4738	4756	1793952512299561953	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test	fac0f8b8d3e5eb4b
+4756	4779	1793952512323561185	CMakeFiles/vk-bootstrap-populate-complete	3965229ebf80ffb6
+4756	4779	1793952512323561185	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-done	3965229ebf80ffb6
+4756	4779	1793952512323561185	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete	3965229ebf80ffb6
+4756	4779	1793952512323561185	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-done	3965229ebf80ffb6

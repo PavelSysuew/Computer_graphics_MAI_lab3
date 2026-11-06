@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vk-bootstrap-populate"
+		],
+		"name" : "vk-bootstrap-populate"
+	}
+}

@@ -1,0 +1,14 @@
+# Target labels
+ vk-bootstrap-populate
+# Source files and their labels
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update.rule

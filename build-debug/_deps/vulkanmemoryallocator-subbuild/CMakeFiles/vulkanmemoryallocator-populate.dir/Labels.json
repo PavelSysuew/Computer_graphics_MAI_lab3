@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/vulkanmemoryallocator-populate"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/vulkanmemoryallocator-populate.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/vulkanmemoryallocator-populate-complete.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/vulkanmemoryallocator-populate-build.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/vulkanmemoryallocator-populate-configure.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/vulkanmemoryallocator-populate-download.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/vulkanmemoryallocator-populate-install.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/vulkanmemoryallocator-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/vulkanmemoryallocator-populate-patch.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/vulkanmemoryallocator-populate-test.rule"
+		},
+		{
+			"file" : "/home/pavel/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/Computer_graphics_MAI_lab3/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/vulkanmemoryallocator-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vulkanmemoryallocator-populate"
+		],
+		"name" : "vulkanmemoryallocator-populate"
+	}
+}

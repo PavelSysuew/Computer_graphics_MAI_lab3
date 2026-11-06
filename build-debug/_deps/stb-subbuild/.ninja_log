@@ -1,0 +1,21 @@
+# ninja log v5
+1	15	1793952662070001351	stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir	6ee38ce98967a7eb
+1	15	1793952662070001351	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir	6ee38ce98967a7eb
+15	6458	1793952668511179886	stb-populate-prefix/src/stb-populate-stamp/stb-populate-download	bda8f2e1dd729648
+15	6458	1793952668511179886	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-download	bda8f2e1dd729648
+6458	6491	1793952668544185889	stb-populate-prefix/src/stb-populate-stamp/stb-populate-update	6d9957a60396d415
+6458	6491	1793952668544185889	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-update	6d9957a60396d415
+6491	6521	1793952668574191346	stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch	3c28129e731ac08f
+6491	6521	1793952668574191346	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch	3c28129e731ac08f
+6521	6551	1793952668604196804	stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure	a5e23760161c3c9d
+6521	6551	1793952668604196804	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure	a5e23760161c3c9d
+6551	6582	1793952668635202443	stb-populate-prefix/src/stb-populate-stamp/stb-populate-build	7140ae53180a5c22
+6551	6582	1793952668635202443	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-build	7140ae53180a5c22
+6582	6615	1793952668668208446	stb-populate-prefix/src/stb-populate-stamp/stb-populate-install	78c6d8e7cec16f1b
+6582	6615	1793952668668208446	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-install	78c6d8e7cec16f1b
+6615	6646	1793952668700214267	stb-populate-prefix/src/stb-populate-stamp/stb-populate-test	f88d59e9eda96972
+6615	6646	1793952668700214267	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-test	f88d59e9eda96972
+6647	6690	1793952668743222089	CMakeFiles/stb-populate-complete	ba6decabeef37fde
+6647	6690	1793952668743222089	stb-populate-prefix/src/stb-populate-stamp/stb-populate-done	ba6decabeef37fde
+6647	6690	1793952668743222089	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/CMakeFiles/stb-populate-complete	ba6decabeef37fde
+6647	6690	1793952668743222089	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-done	ba6decabeef37fde

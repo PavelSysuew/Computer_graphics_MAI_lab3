@@ -1,0 +1,21 @@
+# ninja log v5
+1	33	1793952500352944611	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	702deb8df962cdb3
+1	33	1793952500352944611	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	702deb8df962cdb3
+33	6449	1793952506770739010	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	ed4329df1d7c4a71
+33	6449	1793952506770739010	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	ed4329df1d7c4a71
+6449	6469	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	b879f775a5e52c5c
+6449	6469	0	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	b879f775a5e52c5c
+6469	6487	1793952506807737825	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	d4e08b049e6d745e
+6469	6487	1793952506807737825	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	d4e08b049e6d745e
+6487	6505	1793952506825737248	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	16e311c89843416d
+6487	6505	1793952506825737248	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	16e311c89843416d
+6505	6523	1793952506844736640	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	3323e5e9a68e72fc
+6505	6523	1793952506844736640	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	3323e5e9a68e72fc
+6523	6545	1793952506865735967	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	ca6021c5d3f3cc74
+6523	6545	1793952506865735967	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	ca6021c5d3f3cc74
+6545	6568	1793952506888735231	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	200ec6b862cdc5eb
+6545	6568	1793952506888735231	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	200ec6b862cdc5eb
+6568	6601	1793952506921734174	CMakeFiles/glfw-populate-complete	5d01199465df1358
+6568	6601	1793952506921734174	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	5d01199465df1358
+6568	6601	1793952506921734174	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	5d01199465df1358
+6568	6601	1793952506921734174	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	5d01199465df1358

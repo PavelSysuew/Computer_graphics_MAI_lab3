@@ -1,0 +1,14 @@
+# Target labels
+ imgui-populate
+# Source files and their labels
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test.rule
+/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update.rule

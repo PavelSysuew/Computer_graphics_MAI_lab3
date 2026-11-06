@@ -1,0 +1,21 @@
+# ninja log v5
+1	16	1793952522620231580	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	e76e33b88c70f91a
+1	16	1793952522620231580	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	e76e33b88c70f91a
+16	139264	1793952661866963960	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	ca284d8e5f7386eb
+16	139264	1793952661866963960	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	ca284d8e5f7386eb
+139264	139282	0	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	64e8543ffcd691c
+139264	139282	0	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	64e8543ffcd691c
+139283	139302	1793952661904970964	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	7ea42b1853b075a6
+139283	139302	1793952661904970964	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	7ea42b1853b075a6
+139302	139320	1793952661922974281	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	71475fa3168b4fd7
+139302	139320	1793952661922974281	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	71475fa3168b4fd7
+139320	139337	1793952661940977599	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	a2a67118c6ddd3ef
+139320	139337	1793952661940977599	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	a2a67118c6ddd3ef
+139338	139357	1793952661960981285	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	86f8776aa8225b17
+139338	139357	1793952661960981285	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	86f8776aa8225b17
+139357	139373	1793952661976984234	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	cbe0cb89262e0e3f
+139357	139373	1793952661976984234	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	cbe0cb89262e0e3f
+139374	139394	1793952661997988105	CMakeFiles/imgui-populate-complete	2ed3df902f3e893c
+139374	139394	1793952661997988105	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	2ed3df902f3e893c
+139374	139394	1793952661997988105	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	2ed3df902f3e893c
+139374	139394	1793952661997988105	/home/pavel/Документы/Computer_graphics_MAI_lab3/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	2ed3df902f3e893c
